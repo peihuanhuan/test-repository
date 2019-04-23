@@ -13,3 +13,4 @@ feature2 commit 2
 
 
 feature3 commit 1
+feature3 commit 2
